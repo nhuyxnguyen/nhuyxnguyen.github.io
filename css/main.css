@@ -48,7 +48,6 @@ a:hover {
 
 #portfolio {
 	background-color: #F3F3F4;
-	padding: 100px;
 	width: 936px;
 	margin: auto;
 }
@@ -78,12 +77,22 @@ a:hover {
 	float: left;
 }
 
+.grid-container-1 {
+	width: 624px;
+	margin: auto;
+
+}
+
+.grid-container-2 {
+	width: 624px;
+	margin: auto;
+}
 
 .grid {
 	position: relative;
 	float: left;
 	margin-right: 10px;
-	margin-bottom: 100px;
+	margin-bottom: 10px;
 	width: 302px;
 	height: 307px;
 }
